@@ -1,2 +1,2 @@
 # Real-Fake-Job-Posting-analysis-NLP
-Real and Fake Job description analysis via NLP
+This File contains Real and Job posting excel file along with python file for Classification and streamlit app.
