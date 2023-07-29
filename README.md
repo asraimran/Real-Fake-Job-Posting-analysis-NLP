@@ -1,16 +1,13 @@
 # Real-Fake-Job-Posting-analysis-NLP
 This File contains Real and Job posting excel file along with python file for Classification and streamlit app.
 
-## App Preview ##
+## Results Preview ##
 ***
-<table>
-    <tr>
-        <td>Label Samples</td>
-    </tr>
-    <tr>
-        <td valign="top"><img src="job_app · Streamlit.mp4"></td>
-    </tr>
-</table>
+
+
+https://github.com/asraimran/Real-Fake-Job-Posting-analysis-NLP/assets/101121288/a90c7103-228b-41cf-913f-e58a4716cce1
+
+
 
 ## TODO ##
 ***
